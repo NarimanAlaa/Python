@@ -1,9 +1,8 @@
 from os import system
 from time import sleep
 
-x = 0
 
-while(x==0):
+while(True):
 
 	system('cls')
 	
